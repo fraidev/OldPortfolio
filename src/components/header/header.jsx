@@ -31,6 +31,7 @@ function ButtonAppBar(props) {
                     <Button color="inherit" href="https://www.linkedin.com/in/fraifelipe/">Linkedin</Button>
                     <Button color="inherit" href="https://twitter.com/fraifelipe_">Twitter</Button>
                     <Button color="inherit" href="https://medium.com/@Frai">Blog</Button>
+                    <Button color="inherit" href="https://github.com/fraifelipe">GitHub</Button>
                 </Toolbar>
             </AppBar>
         </div>
